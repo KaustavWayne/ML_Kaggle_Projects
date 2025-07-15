@@ -1,4 +1,30 @@
-Of course! My apologies for the inconvenience. Here is the revised list with clickable hyperlinks for each dataset.
+# 🎯 50 Kaggle Datasets for Machine Learning Projects  
+
+Welcome! Below is a curated list of **50 Kaggle project datasets** ideal for practicing various machine learning concepts like Regression, Classification, PCA, Feature Engineering, and Model Evaluation.  
+
+Each entry includes:  
+- ✅ **Working Kaggle Link**  
+- **Main Objective**  
+- **Applicable Syllabus Concepts** (aligned with common university ML syllabi)  
+
+---
+
+![Machine Learning Datasets](https://storage.googleapis.com/kaggle-datasets-images/7566/12256/b3be9dbde03b214c2c4725c9e80c4e86/dataset-cover.jpg)
+
+> 💡 *"Let data guide the decision, not guesswork."*
+
+Use these datasets to practice skills across:  
+- Regression Analysis  
+- Classification (Binary, Multiclass)  
+- Feature Selection & Dimensionality Reduction  
+- Handling Missing Values & Outliers  
+- Model Tuning & Evaluation  
+
+---
+
+### ✅ Full List Below  
+*Scroll down for all 50 datasets with structured objectives and syllabus concept mapping!*
+
 
 ***
 
@@ -59,7 +85,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Cross-Validation` (K-Fold CV) for robust model evaluation (Week 30).
 
 **6. Fish Market**
-*   **Link:** [Fish Market](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
+*   **Link:** [Fish Market](https://www.kaggle.com/datasets/vipullrathod/fish-market)
 *   **Main Objective:** To predict the weight of fish based on its species and physical measurements.
 *   **Applicable Syllabus Concepts:**
     *   `Simple Linear Regression` (e.g., Length vs. Weight).
@@ -68,7 +94,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Polynomial Regression` as the relationship between length and weight is cubic (volumetric), not linear.
 
 **7. Boston Housing**
-*   **Link:** [Boston Housing](https://www.kaggle.com/datasets/arslanali4343/boston-housing-dataset)
+*   **Link:** [Boston Housing](https://www.kaggle.com/datasets/altavish/boston-housing-dataset)
 *   **Main Objective:** To predict the median value of owner-occupied homes in Boston suburbs.
 *   **Applicable Syllabus Concepts:**
     *   A classic dataset for practicing `Multiple Linear Regression`, `Polynomial Regression`, and `Regularization`.
@@ -164,7 +190,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Naive Bayes` (Categorical NB) is also a strong candidate.
 
 **17. Dry Bean Dataset**
-*   **Link:** [Dry Bean Dataset](https://www.kaggle.com/datasets/uciml/dry-bean-dataset)
+*   **Link:** [Dry Bean Dataset](https://www.kaggle.com/datasets/muratkokludataset/dry-bean-dataset)
 *   **Main Objective:** To classify beans into one of seven different types based on their shape features.
 *   **Applicable Syllabus Concepts:**
     *   `Multiclass Classification using Logistic Regression` (One vs Rest, SoftMax).
@@ -234,7 +260,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Ensemble Methods` (`Random Forest`, `Gradient Boosting`) for improved prediction.
 
 **25. Loan Prediction**
-*   **Link:** [Loan Prediction Problem Dataset](https://www.kaggle.com/datasets/altruist23/loan-prediction-problem-dataset)
+*   **Link:** [Loan Prediction Problem Dataset](https://www.kaggle.com/datasets/ayushmanyashaswi/loan-dataset-easy-to-understand-yashaswi)
 *   **Main Objective:** To predict whether a loan will be approved or not.
 *   **Applicable Syllabus Concepts:**
     *   `Handling Missing Values` (Gender, Married, Credit_History).
@@ -291,7 +317,7 @@ These datasets are excellent for applying `Naive Bayes` and other classifiers af
     *   `Out of core Naive Bayes` might be needed due to the dataset size.
 
 **31. E-commerce Text Classification**
-*   **Link:** [E-commerce Text Classification](https://www.kaggle.com/datasets/sagnikchakraborty/ecommerce-text-classification)
+*   **Link:** [E-commerce Text Classification](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
 *   **Main Objective:** Classify e-commerce product descriptions into four categories.
 *   **Applicable Syllabus Concepts:**
     *   `Multiclass Classification` on text data.
@@ -352,7 +378,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `KNN` is interesting here, as "similar" looking clothes should be close in the feature space.
 
 **38. Olivetti Faces**
-*   **Link:** [Real and Fake Face Detection](https://www.kaggle.com/datasets/tavishjain/real-and-fake-face-detection) (This contains a version of the Olivetti dataset).
+*   **Link:** [Real and Fake Face Detection](https://www.kaggle.com/datasets/sahilyagnik/olivetti-faces) (This contains a version of the Olivetti dataset).
 *   **Main Objective:** To perform face recognition.
 *   **Applicable Syllabus Concepts:**
     *   A classic application of `PCA` (often called "Eigenfaces").
@@ -410,7 +436,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `KNN`: The intuition of "distance" between customers is central to both KNN and clustering.
 
 **45. FIFA 19 Complete Player Dataset**
-*   **Link:** [FIFA 19 Complete Player Dataset](https://www.kaggle.com/datasets/karangadiya/fifa19)
+*   **Link:** [FIFA 19 Complete Player Dataset](https://www.kaggle.com/datasets/javagarm/fifa-19-complete-player-dataset)
 *   **Main Objective:** Predict a player's overall rating or position.
 *   **Applicable Syllabus Concepts:**
     *   **Regression:** Predict `Overall` rating using `Multiple Linear Regression`, `Random Forest Regressor`, etc.
@@ -429,7 +455,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `Naive Bayes` could be used, assuming hero picks are conditionally independent.
 
 **47. Credit Approval Prediction**
-*   **Link:** [Credit Card Approval Prediction](https://www.kaggle.com/datasets/yasserh/credit-card-approval-prediction)
+*   **Link:** [Credit Card Approval Prediction](https://www.kaggle.com/datasets/pranaybshah/credit-card-approval-prediction-dataset)
 *   **Main Objective:** Predict whether a credit card application will be approved.
 *   **Applicable Syllabus Concepts:**
     *   A good mix of numerical and categorical data.
@@ -438,7 +464,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `Cross-Validation` and `Hyperparameter Tuning` to build a reliable model.
 
 **48. Online Shoppers Purchasing Intention**
-*   **Link:** [Online Shoppers Purchasing Intention Dataset](https://www.kaggle.com/datasets/henrysue/online-shoppers-purchasing-intention-dataset)
+*   **Link:** [Online Shoppers Purchasing Intention Dataset](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
 *   **Main Objective:** To predict whether an online visitor will end their session with a purchase.
 *   **Applicable Syllabus Concepts:**
     *   Binary classification.
@@ -447,7 +473,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `ROC AUC` and `F1-Score` are good metrics.
 
 **49. Anomaly Detection in Credit Card Transactions**
-*   **Link:** [Credit Card Fraud Detection - Anomaly Detection](https://www.kaggle.com/datasets/fractalquer/credit-card-fraud-detection-anomaly-detection)
+*   **Link:** [Credit Card Fraud Detection - Anomaly Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 *   **Main Objective:** Similar to #12 but often used to frame the problem as anomaly detection.
 *   **Applicable Syllabus Concepts:**
     *   While anomaly detection has its own algorithms, it can be approached with classifiers.
@@ -455,10 +481,14 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `SVM` (specifically One-Class SVM, though not in the syllabus) is a related concept. You can use a standard `SVM` and see how it performs on this highly imbalanced data.
 
 **50. Connect 4**
-*   **Link:** [Connect 4 Dataset](https://www.kaggle.com/datasets/uciml/connect-4-data-set)
-*   **Main Objective:** To predict the winner of a Connect 4 game given a board state.
-*   **Applicable Syllabus Concepts:**
-    *   Multi-class classification (win, loss, draw).
-    *   `Decision Trees` and `Random Forests` work well on this type of rule-based data.
-    *   `Naive Bayes` can be applied by treating each board position as a feature.
-    *   A good dataset for exploring the `Bias-Variance Tradeoff`. A simple model may have high bias, while a complex Random Forest might overfit.
+
+*  **Link:** [Connect‑4 Game Dataset](https://www.kaggle.com/datasets/tbrewer/connect-4)
+
+* **Main Objective:** Predict the winner (win, loss, draw) of a Connect‑4 game given an 8‑ply board state.
+
+* **Applicable Syllabus Concepts:**
+    * `Multi‑class classification` (win, loss, draw).
+    * `Decision Trees` and `Random Forests` are well‑suited for rule‑based, categorical data.
+    * `Naive Bayes` can be applied by treating each board position (a–g, rows 1–6) as a feature.
+    * Perfect for illustrating the `Bias–Variance Tradeoff` — simple decision trees may underfit, while extensive forests risk overfitting.
+
