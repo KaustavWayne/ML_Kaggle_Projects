@@ -1,6 +1,6 @@
 # 🎯 50 Kaggle Datasets for Machine Learning Projects  
 
-Welcome! Below is a curated list of **50 Kaggle project datasets** ideal for practicing various machine learning concepts like Regression, Classification, PCA, Feature Engineering, and Model Evaluation.  
+Welcome! Below is a curated list of **50 Kaggle project datasets** ideal for practicing various machine learning concepts like Regression, Classification, PCA, Feature Engineering, and Model Evaluation.
 
 Each entry includes:  
 - ✅ **Working Kaggle Link**  
@@ -9,7 +9,7 @@ Each entry includes:
 
 ---
 
-![Machine Learning Datasets](https://storage.googleapis.com/kaggle-datasets-images/7566/12256/b3be9dbde03b214c2c4725c9e80c4e86/dataset-cover.jpg)
+![Machine Learning Datasets](https://www.kaggleusercontent.com/datasets-images/13796/18605/cb05b0f46304d460a86cd8d059cfb8cf/dataset-cover.png)
 
 > 💡 *"Let data guide the decision, not guesswork."*
 
@@ -24,7 +24,6 @@ Use these datasets to practice skills across:
 
 ### ✅ Full List Below  
 *Scroll down for all 50 datasets with structured objectives and syllabus concept mapping!*
-
 
 ***
 
