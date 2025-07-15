@@ -1,4 +1,4 @@
-Of course! Here are 50 Kaggle dataset links, categorized by machine learning problem type. For each dataset, I've included its main objective and highlighted specific techniques and concepts from your provided syllabus that can be applied to it.
+Of course! My apologies for the inconvenience. Here is the revised list with clickable hyperlinks for each dataset.
 
 ***
 
@@ -7,7 +7,7 @@ Of course! Here are 50 Kaggle dataset links, categorized by machine learning pro
 These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus, focusing on linear regression, regularization, and feature analysis.
 
 **1. House Prices - Advanced Regression Techniques**
-*   **Link:** `https://www.kaggle.com/c/house-prices-advanced-regression-techniques`
+*   **Link:** [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 *   **Main Objective:** To predict the final sale price of residential homes in Ames, Iowa.
 *   **Applicable Syllabus Concepts:**
     *   `Simple and Multiple Linear Regression` (Sessions 49, 50) to build a baseline model.
@@ -19,7 +19,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   Using `Regularization` (Ridge, Lasso, ElasticNet) to prevent overfitting (Week 27).
 
 **2. Medical Cost Personal Datasets**
-*   **Link:** `https://www.kaggle.com/datasets/mirichoi0218/insurance`
+*   **Link:** [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 *   **Main Objective:** To predict individual medical costs billed by a health insurance company.
 *   **Applicable Syllabus Concepts:**
     *   `Multiple Linear Regression` (Session 50) using features like age, BMI, and smoker status.
@@ -29,7 +29,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Bias-Variance Tradeoff` analysis when choosing model complexity.
 
 **3. Used Car Price Prediction**
-*   **Link:** `https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho`
+*   **Link:** [Used Car Price Prediction](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 *   **Main Objective:** To predict the selling price of used cars based on their specifications.
 *   **Applicable Syllabus Concepts:**
     *   `Multiple Linear Regression` (Session 50).
@@ -39,7 +39,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Regression Metrics` (MAE, MSE) to evaluate prediction accuracy.
 
 **4. Student Performance Dataset**
-*   **Link:** `https://www.kaggle.com/datasets/larsen0966/student-performance-data-set`
+*   **Link:** [Student Performance Dataset](https://www.kaggle.com/datasets/larsen0966/student-performance-data-set)
 *   **Main Objective:** To predict the final grade (G3) of students based on demographic, social, and school-related features.
 *   **Applicable Syllabus Concepts:**
     *   `Multiple Linear Regression` (Session 50).
@@ -49,7 +49,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Bagging Regressor` or `Random Forest` (Week 35) for a more robust ensemble model.
 
 **5. California Housing Prices**
-*   **Link:** `https://www.kaggle.com/datasets/camnugent/california-housing-prices`
+*   **Link:** [California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 *   **Main Objective:** To predict the median house value for California districts.
 *   **Applicable Syllabus Concepts:**
     *   `Multiple Linear Regression` (Session 50).
@@ -59,7 +59,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Cross-Validation` (K-Fold CV) for robust model evaluation (Week 30).
 
 **6. Fish Market**
-*   **Link:** `https://www.kaggle.com/datasets/aungpyaeap/fish-market`
+*   **Link:** [Fish Market](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
 *   **Main Objective:** To predict the weight of fish based on its species and physical measurements.
 *   **Applicable Syllabus Concepts:**
     *   `Simple Linear Regression` (e.g., Length vs. Weight).
@@ -68,7 +68,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Polynomial Regression` as the relationship between length and weight is cubic (volumetric), not linear.
 
 **7. Boston Housing**
-*   **Link:** `https://www.kaggle.com/datasets/arslanali4343/boston-housing-dataset`
+*   **Link:** [Boston Housing](https://www.kaggle.com/datasets/arslanali4343/boston-housing-dataset)
 *   **Main Objective:** To predict the median value of owner-occupied homes in Boston suburbs.
 *   **Applicable Syllabus Concepts:**
     *   A classic dataset for practicing `Multiple Linear Regression`, `Polynomial Regression`, and `Regularization`.
@@ -76,7 +76,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Statsmodel Linear Regression` to perform detailed `Regression Analysis` (F-statistic, T-statistic).
 
 **8. Bike Sharing Demand**
-*   **Link:** `https://www.kaggle.com/c/bike-sharing-demand`
+*   **Link:** [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
 *   **Main Objective:** To forecast the number of rental bikes demanded per hour.
 *   **Applicable Syllabus Concepts:**
     *   `Feature Engineering`: Extracting hour, day, month from the timestamp.
@@ -85,7 +85,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Gradient Boosting` for a state-of-the-art predictive model.
 
 **9. Walmart Store Sales Forecasting**
-*   **Link:** `https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting`
+*   **Link:** [Walmart Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 *   **Main Objective:** To predict weekly sales for 45 Walmart stores.
 *   **Applicable Syllabus Concepts:**
     *   `Multiple Linear Regression` using features like temperature, fuel price, and holidays.
@@ -94,7 +94,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
     *   `Ensemble Learning` concepts are key here.
 
 **10. New York City Taxi Fare Prediction**
-*   **Link:** `https://www.kaggle.com/c/new-york-city-taxi-fare-prediction`
+*   **Link:** [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
 *   **Main Objective:** To predict the fare amount for a taxi ride in NYC.
 *   **Applicable Syllabus Concepts:**
     *   `Feature Engineering`: Calculating distance from pickup/dropoff coordinates (e.g., using Haversine distance).
@@ -109,7 +109,7 @@ These datasets are ideal for applying concepts from Weeks 23-27 of your syllabus
 These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 35, and 36, covering a wide range of classification algorithms.
 
 **11. Titanic - Machine Learning from Disaster**
-*   **Link:** `https://www.kaggle.com/c/titanic`
+*   **Link:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 *   **Main Objective:** To predict whether a passenger survived the Titanic disaster or not.
 *   **Applicable Syllabus Concepts:**
     *   A great starting point for binary classification.
@@ -120,7 +120,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Ensemble Methods` like `Random Forest` for higher accuracy.
 
 **12. Credit Card Fraud Detection**
-*   **Link:** `https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud`
+*   **Link:** [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 *   **Main Objective:** To identify fraudulent credit card transactions.
 *   **Applicable Syllabus Concepts:**
     *   `Classification Metrics`: A classic case where `Accuracy is misleading`. Focus on `Precision`, `Recall`, and the `ROC AUC Curve` (Week 30).
@@ -129,7 +129,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Handling Imbalanced Data` (not explicitly in syllabus, but implied by metrics).
 
 **13. Heart Failure Prediction**
-*   **Link:** `https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction`
+*   **Link:** [Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 *   **Main Objective:** To predict whether a patient will have a heart failure event based on their clinical records.
 *   **Applicable Syllabus Concepts:**
     *   `Logistic Regression`, `KNN`, `SVM`, `Decision Tree` for binary classification.
@@ -138,7 +138,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Feature Importance` from `Decision Tree`/`Random Forest` to identify key clinical markers.
 
 **14. Customer Churn Prediction**
-*   **Link:** `https://www.kaggle.com/datasets/blastchar/telco-customer-churn`
+*   **Link:** [Customer Churn Prediction](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 *   **Main Objective:** To predict whether a customer will churn (leave the service).
 *   **Applicable Syllabus Concepts:**
     *   `Logistic Regression` to model the probability of churn.
@@ -147,7 +147,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Gradient Boosting` (Week 36) for a high-performance model to identify at-risk customers.
 
 **15. Water Potability**
-*   **Link:** `https://www.kaggle.com/datasets/adityakadiwal/water-potability`
+*   **Link:** [Water Potability](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
 *   **Main Objective:** To predict if water is safe for human consumption based on its chemical properties.
 *   **Applicable Syllabus Concepts:**
     *   `Handling Missing Data` using `KNN Imputer` or `Iterative Imputer` (MICE).
@@ -156,7 +156,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `ROC AUC Curve` to evaluate model performance.
 
 **16. Mushroom Classification**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/mushroom-classification`
+*   **Link:** [Mushroom Classification](https://www.kaggle.com/datasets/uciml/mushroom-classification)
 *   **Main Objective:** To determine whether a mushroom is edible or poisonous.
 *   **Applicable Syllabus Concepts:**
     *   `Decision Tree`: This dataset is famous for being perfectly solvable by a simple decision tree. Great for visualizing `Gini Impurity` splits.
@@ -164,7 +164,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Naive Bayes` (Categorical NB) is also a strong candidate.
 
 **17. Dry Bean Dataset**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/dry-bean-dataset`
+*   **Link:** [Dry Bean Dataset](https://www.kaggle.com/datasets/uciml/dry-bean-dataset)
 *   **Main Objective:** To classify beans into one of seven different types based on their shape features.
 *   **Applicable Syllabus Concepts:**
     *   `Multiclass Classification using Logistic Regression` (One vs Rest, SoftMax).
@@ -173,7 +173,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Multi-class Precision and Recall` and `F1 score` for evaluation.
 
 **18. Pima Indians Diabetes Database**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database`
+*   **Link:** [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 *   **Main Objective:** To predict the onset of diabetes based on diagnostic measures.
 *   **Applicable Syllabus Concepts:**
     *   A classic binary classification task.
@@ -183,7 +183,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Feature Selection` to determine the most predictive health indicators.
 
 **19. Breast Cancer Wisconsin (Diagnostic)**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data`
+*   **Link:** [Breast Cancer Wisconsin (Diagnostic)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 *   **Main Objective:** To diagnose breast cancer (Malignant vs. Benign) from digitized image features.
 *   **Applicable Syllabus Concepts:**
     *   `Logistic Regression` and `SVM` (Hard and Soft Margin) are very effective here.
@@ -191,7 +191,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Cross-Validation` for robust evaluation.
 
 **20. Mobile Price Classification**
-*   **Link:** `https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification`
+*   **Link:** [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 *   **Main Objective:** To predict the price range of mobile phones (low, medium, high, very high).
 *   **Applicable Syllabus Concepts:**
     *   `Multiclass Classification` problem.
@@ -200,7 +200,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Feature Selection` to simplify the model.
 
 **21. Wine Quality**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009`
+*   **Link:** [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 *   **Main Objective:** To predict the quality of wine (a score from 3 to 8) based on chemical tests.
 *   **Applicable Syllabus Concepts:**
     *   Can be framed as regression or multi-class classification (by grouping scores).
@@ -209,7 +209,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `PCA` to explore relationships between the chemical properties.
 
 **22. Forest Cover Type Prediction**
-*   **Link:** `https://www.kaggle.com/c/forest-cover-type-prediction`
+*   **Link:** [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
 *   **Main Objective:** To predict the forest cover type from cartographic variables.
 *   **Applicable Syllabus Concepts:**
     *   `Multiclass Classification` with a large number of samples.
@@ -218,7 +218,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Hyperparameter Tuning` is essential for performance.
 
 **23. Iris Species**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/iris`
+*   **Link:** [Iris Species](https://www.kaggle.com/datasets/uciml/iris)
 *   **Main Objective:** The "Hello, World!" of classification. Classify iris plants into three species.
 *   **Applicable Syllabus Concepts:**
     *   Perfect for introducing `KNN` and visualizing `Decision Boundaries`.
@@ -226,7 +226,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `PCA`: Visualizing the 4D data in 2D to see the class separation.
 
 **24. Bank Marketing Dataset**
-*   **Link:** `https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset`
+*   **Link:** [Bank Marketing Dataset](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)
 *   **Main Objective:** Predict if a client will subscribe to a term deposit.
 *   **Applicable Syllabus Concepts:**
     *   Binary classification (`Logistic Regression`, `SVM`).
@@ -234,7 +234,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
     *   `Ensemble Methods` (`Random Forest`, `Gradient Boosting`) for improved prediction.
 
 **25. Loan Prediction**
-*   **Link:** `https://www.kaggle.com/datasets/altruist23/loan-prediction-problem-dataset`
+*   **Link:** [Loan Prediction Problem Dataset](https://www.kaggle.com/datasets/altruist23/loan-prediction-problem-dataset)
 *   **Main Objective:** To predict whether a loan will be approved or not.
 *   **Applicable Syllabus Concepts:**
     *   `Handling Missing Values` (Gender, Married, Credit_History).
@@ -249,7 +249,7 @@ These datasets are perfect for applying concepts from Weeks 28, 31, 32, 33, 34, 
 These datasets are excellent for applying `Naive Bayes` and other classifiers after text feature extraction.
 
 **26. SMS Spam Collection Dataset**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset`
+*   **Link:** [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 *   **Main Objective:** To classify SMS messages as "spam" or "ham".
 *   **Applicable Syllabus Concepts:**
     *   The quintessential project for `Naive Bayes on Textual data`.
@@ -258,7 +258,7 @@ These datasets are excellent for applying `Naive Bayes` and other classifiers af
     *   Can also be solved with `Logistic Regression` after text vectorization (e.g., TF-IDF).
 
 **27. Real or Not? NLP with Disaster Tweets**
-*   **Link:** `https://www.kaggle.com/c/nlp-getting-started`
+*   **Link:** [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)
 *   **Main Objective:** To predict which tweets are about real disasters and which are not.
 *   **Applicable Syllabus Concepts:**
     *   `Naive Bayes` (`Multinomial`, `Bernoulli`).
@@ -267,7 +267,7 @@ These datasets are excellent for applying `Naive Bayes` and other classifiers af
     *   Focus on `Classification Metrics` like F1-Score.
 
 **28. IMDB Dataset of 50K Movie Reviews**
-*   **Link:** `https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews`
+*   **Link:** [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 *   **Main Objective:** To perform sentiment analysis (positive or negative) on movie reviews.
 *   **Applicable Syllabus Concepts:**
     *   `Naive Bayes` for text classification.
@@ -275,7 +275,7 @@ These datasets are excellent for applying `Naive Bayes` and other classifiers af
     *   `ROC AUC Curve` is a good evaluation metric.
 
 **29. Fake News Detection**
-*   **Link:** `https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset`
+*   **Link:** [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 *   **Main Objective:** To classify news articles as either "Fake" or "True".
 *   **Applicable Syllabus Concepts:**
     *   `Naive Bayes` and `Logistic Regression`.
@@ -283,7 +283,7 @@ These datasets are excellent for applying `Naive Bayes` and other classifiers af
     *   `Feature Engineering`: Beyond word counts, you could create features like title length, text case usage, etc.
 
 **30. Amazon Fine Food Reviews**
-*   **Link:** `https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews`
+*   **Link:** [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 *   **Main Objective:** To predict the review score (1-5) or sentiment based on the review text.
 *   **Applicable Syllabus Concepts:**
     *   Can be framed as regression or classification.
@@ -291,7 +291,7 @@ These datasets are excellent for applying `Naive Bayes` and other classifiers af
     *   `Out of core Naive Bayes` might be needed due to the dataset size.
 
 **31. E-commerce Text Classification**
-*   **Link:** `https://www.kaggle.com/datasets/sagnikchakraborty/ecommerce-text-classification`
+*   **Link:** [E-commerce Text Classification](https://www.kaggle.com/datasets/sagnikchakraborty/ecommerce-text-classification)
 *   **Main Objective:** Classify e-commerce product descriptions into four categories.
 *   **Applicable Syllabus Concepts:**
     *   `Multiclass Classification` on text data.
@@ -299,28 +299,28 @@ These datasets are excellent for applying `Naive Bayes` and other classifiers af
     *   `Logistic Regression` (One vs Rest or Softmax).
 
 **32. Spam Mail Dataset**
-*   **Link:** `https://www.kaggle.com/datasets/mfaisalqureshi/spam-email`
+*   **Link:** [Spam Mail Dataset](https://www.kaggle.com/datasets/mfaisalqureshi/spam-email)
 *   **Main Objective:** The official "Email Spam Classifier" end-to-end project mentioned in your syllabus.
 *   **Applicable Syllabus Concepts:**
     *   Perfect for demonstrating the entire `Naive Bayes` pipeline (Week 31).
     *   `Laplace Smoothing`, `Log Probabilities`, and comparing `Gaussian`, `Multinomial`, and `Bernoulli` Naive Bayes.
 
 **33. Twitter US Airline Sentiment**
-*   **Link:** `https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment`
+*   **Link:** [Twitter US Airline Sentiment](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
 *   **Main Objective:** Multi-class sentiment analysis (positive, negative, neutral) of tweets directed at US airlines.
 *   **Applicable Syllabus Concepts:**
     *   `Naive Bayes` and `Logistic Regression` for multi-class text problems.
     *   `Ensemble Methods` like `Random Forest` after text vectorization.
 
 **34. Quora Insincere Questions Classification**
-*   **Link:** `https://www.kaggle.com/c/quora-insincere-questions-classification`
+*   **Link:** [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)
 *   **Main Objective:** Identify and flag toxic/insincere questions on Quora.
 *   **Applicable Syllabus Concepts:**
     *   `Naive Bayes`, `Logistic Regression`.
     *   `F1-Score` is the key metric due to class imbalance.
 
 **35. Stack Overflow Tag Prediction**
-*   **Link:** `https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/`
+*   **Link:** [Stack Overflow Tag Prediction](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/)
 *   **Main Objective:** Predict the tags (e.g., 'c#', 'java') for a given Stack Overflow question.
 *   **Applicable Syllabus Concepts:**
     *   This is a multi-label classification problem.
@@ -334,7 +334,7 @@ These datasets are excellent for applying `Naive Bayes` and other classifiers af
 These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts like the `Curse of Dimensionality`.
 
 **36. Digit Recognizer (MNIST)**
-*   **Link:** `https://www.kaggle.com/c/digit-recognizer`
+*   **Link:** [Digit Recognizer (MNIST)](https://www.kaggle.com/c/digit-recognizer)
 *   **Main Objective:** To identify handwritten digits (0-9).
 *   **Applicable Syllabus Concepts:**
     *   Perfect for demonstrating the `Curse of Dimensionality` (784 features).
@@ -344,7 +344,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `EigenVectors and Eigenvalues` are the core mathematical concepts behind PCA.
 
 **37. Fashion-MNIST**
-*   **Link:** `https://www.kaggle.com/datasets/zalando-research/fashionmnist`
+*   **Link:** [Fashion-MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 *   **Main Objective:** Classify grayscale images of clothing items into 10 categories.
 *   **Applicable Syllabus Concepts:**
     *   Similar to MNIST, it's great for `PCA` and `SVD` (Week 29).
@@ -352,7 +352,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `KNN` is interesting here, as "similar" looking clothes should be close in the feature space.
 
 **38. Olivetti Faces**
-*   **Link:** `https://www.kaggle.com/datasets/tavishjain/real-and-fake-face-detection` (This contains a version of the Olivetti dataset).
+*   **Link:** [Real and Fake Face Detection](https://www.kaggle.com/datasets/tavishjain/real-and-fake-face-detection) (This contains a version of the Olivetti dataset).
 *   **Main Objective:** To perform face recognition.
 *   **Applicable Syllabus Concepts:**
     *   A classic application of `PCA` (often called "Eigenfaces").
@@ -360,7 +360,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   Demonstrates how `PCA` can be used for `Feature Extraction`.
 
 **39. Human Activity Recognition with Smartphones**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones`
+*   **Link:** [Human Activity Recognition with Smartphones](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones)
 *   **Main Objective:** To classify the type of activity (e.g., walking, standing, sitting) from smartphone sensor data.
 *   **Applicable Syllabus Concepts:**
     *   The features are already heavily engineered, but the high dimensionality (561 features) makes it a candidate for `PCA`.
@@ -368,7 +368,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `Random Forest` and `Gradient Boosting` are also strong performers.
 
 **40. Gene Expression Cancer RNA-Seq**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data` (This is a simpler version, for high-dim look at `https://www.kaggle.com/datasets/sahirmaharaj/lung-cancer-dataset`)
+*   **Link:** [Lung Cancer Dataset](https://www.kaggle.com/datasets/sahirmaharaj/lung-cancer-dataset) (A good high-dimensional example).
 *   **Main Objective:** To classify cancer types based on gene expression data.
 *   **Applicable Syllabus Concepts:**
     *   These datasets have a huge number of features (genes) and few samples, the classic `Curse of Dimensionality` problem.
@@ -376,7 +376,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `Regularization` (especially `Lasso`) is critical for `Feature Selection` (finding the most important genes).
 
 **41. Leaf Classification**
-*   **Link:** `https://www.kaggle.com/c/leaf-classification`
+*   **Link:** [Leaf Classification](https://www.kaggle.com/c/leaf-classification)
 *   **Main Objective:** Classify leaf species based on shape, margin, and texture features.
 *   **Applicable Syllabus Concepts:**
     *   High-dimensional feature space (192 features).
@@ -385,7 +385,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `Hyperparameter Tuning` is important.
 
 **42. Santander Customer Satisfaction**
-*   **Link:** `https://www.kaggle.com/c/santander-customer-satisfaction`
+*   **Link:** [Santander Customer Satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction)
 *   **Main Objective:** To identify dissatisfied customers.
 *   **Applicable Syllabus Concepts:**
     *   Binary classification with a large number of anonymized features (370).
@@ -394,7 +394,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `PCA` can be used to explore the data structure.
 
 **43. S&P 500 Stocks**
-*   **Link:** `https://www.kaggle.com/datasets/camnugent/sandp500`
+*   **Link:** [S&P 500 Stocks](https://www.kaggle.com/datasets/camnugent/sandp500)
 *   **Main Objective:** Analyze the relationships between different stock prices.
 *   **Applicable Syllabus Concepts:**
     *   `PCA` can be used to find the "market" component (the first principal component) and other underlying factors driving stock movements.
@@ -402,7 +402,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `Correlation` to detect `Multicollinearity` between stocks in the same sector.
 
 **44. Mall Customer Segmentation**
-*   **Link:** `https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python`
+*   **Link:** [Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 *   **Main Objective:** To segment customers into groups based on their spending habits.
 *   **Applicable Syllabus Concepts:**
     *   While primarily an unsupervised learning (clustering) problem, it can be used to illustrate concepts.
@@ -410,7 +410,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `KNN`: The intuition of "distance" between customers is central to both KNN and clustering.
 
 **45. FIFA 19 Complete Player Dataset**
-*   **Link:** `https://www.kaggle.com/datasets/karangadiya/fifa19`
+*   **Link:** [FIFA 19 Complete Player Dataset](https://www.kaggle.com/datasets/karangadiya/fifa19)
 *   **Main Objective:** Predict a player's overall rating or position.
 *   **Applicable Syllabus Concepts:**
     *   **Regression:** Predict `Overall` rating using `Multiple Linear Regression`, `Random Forest Regressor`, etc.
@@ -420,7 +420,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `PCA`: Reduce the ~50 skill attributes into fewer composite "skill factors".
 
 **46. Dota 2 Game Results**
-*   **Link:** `https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches`
+*   **Link:** [Dota 2 Game Results](https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches)
 *   **Main Objective:** Predict the winning team based on the heroes picked by each team.
 *   **Applicable Syllabus Concepts:**
     *   Binary classification problem.
@@ -429,7 +429,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `Naive Bayes` could be used, assuming hero picks are conditionally independent.
 
 **47. Credit Approval Prediction**
-*   **Link:** `https://www.kaggle.com/datasets/yasserh/credit-card-approval-prediction`
+*   **Link:** [Credit Card Approval Prediction](https://www.kaggle.com/datasets/yasserh/credit-card-approval-prediction)
 *   **Main Objective:** Predict whether a credit card application will be approved.
 *   **Applicable Syllabus Concepts:**
     *   A good mix of numerical and categorical data.
@@ -438,7 +438,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `Cross-Validation` and `Hyperparameter Tuning` to build a reliable model.
 
 **48. Online Shoppers Purchasing Intention**
-*   **Link:** `https://www.kaggle.com/datasets/henrysue/online-shoppers-purchasing-intention-dataset`
+*   **Link:** [Online Shoppers Purchasing Intention Dataset](https://www.kaggle.com/datasets/henrysue/online-shoppers-purchasing-intention-dataset)
 *   **Main Objective:** To predict whether an online visitor will end their session with a purchase.
 *   **Applicable Syllabus Concepts:**
     *   Binary classification.
@@ -447,7 +447,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `ROC AUC` and `F1-Score` are good metrics.
 
 **49. Anomaly Detection in Credit Card Transactions**
-*   **Link:** `https://www.kaggle.com/datasets/fractalquer/credit-card-fraud-detection-anomaly-detection`
+*   **Link:** [Credit Card Fraud Detection - Anomaly Detection](https://www.kaggle.com/datasets/fractalquer/credit-card-fraud-detection-anomaly-detection)
 *   **Main Objective:** Similar to #12 but often used to frame the problem as anomaly detection.
 *   **Applicable Syllabus Concepts:**
     *   While anomaly detection has its own algorithms, it can be approached with classifiers.
@@ -455,7 +455,7 @@ These datasets are ideal for applying `PCA`, `SVD`, and demonstrating concepts l
     *   `SVM` (specifically One-Class SVM, though not in the syllabus) is a related concept. You can use a standard `SVM` and see how it performs on this highly imbalanced data.
 
 **50. Connect 4**
-*   **Link:** `https://www.kaggle.com/datasets/uciml/connect-4-data-set`
+*   **Link:** [Connect 4 Dataset](https://www.kaggle.com/datasets/uciml/connect-4-data-set)
 *   **Main Objective:** To predict the winner of a Connect 4 game given a board state.
 *   **Applicable Syllabus Concepts:**
     *   Multi-class classification (win, loss, draw).
