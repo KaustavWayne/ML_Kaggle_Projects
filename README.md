@@ -9,7 +9,7 @@ Each entry includes:
 
 ---
 
-![Machine Learning Datasets](https://www.kaggleusercontent.com/datasets-images/13796/18605/cb05b0f46304d460a86cd8d059cfb8cf/dataset-cover.png)
+![Machine Learning Datasets](kaggle-logo.png)
 
 > 💡 *"Let data guide the decision, not guesswork."*
 
